@@ -10,3 +10,10 @@ def func():
 function func(){
     alert("123")
 }
+'''
+
+'''php
+function func(){
+    echo "123456";
+}
+'''
